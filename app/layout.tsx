@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Audion",
   description: "Modern Podcast App with best AI features",
   icons: {
-    icon: "/icons/play-button.png",
+    icon: "/icons/logo.svg",
   }
 };
 
