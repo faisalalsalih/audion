@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button } from '@/components/ui/button'
+
 
 
 const Home = () => {
@@ -17,3 +17,4 @@ const Home = () => {
 }
 
 export default Home
+
