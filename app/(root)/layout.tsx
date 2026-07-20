@@ -1,3 +1,5 @@
+import LeftSidebar from "@/components/shared/LeftSidebar";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -6,6 +8,7 @@ export default function RootLayout({
   return (
     <div>
         <main>
+          <LeftSidebar />
             {children}
         </main>
     </div>
