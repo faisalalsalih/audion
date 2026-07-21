@@ -2,9 +2,11 @@ import React from 'react'
 
 const CreatePodcast = () => {
   return (
-    <div>
-      
-    </div>
+    <>
+      <div>
+        <h1 className="text-20 font-bold">Create Podcast</h1>
+      </div>
+    </>
   )
 }
 
