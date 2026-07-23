@@ -121,16 +121,10 @@ html {
 }
 
 .glassmorphism {
-  background: rgba(255, 255, 255, 0.25);
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
 }
 
-.glassmorphism-auth {
-  background: rgba(243, 244, 246, 0.9);
-  backdrop-filter: blur(4px);
-  -webkit-backdrop-filter: blur(4px);
-}
 
 .glassmorphism-black {
   background: rgba(15, 23, 42, 0.64);
@@ -169,7 +163,7 @@ html {
 
 .cl-headerSubtitle {
   color: #71788B;
-}
+} 
 
 
 .cl-logoImage {
